@@ -1,0 +1,17 @@
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Service.deps.json
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Service.runtimeconfig.json
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Service.runtimeconfig.dev.json
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Service.dll
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Service.pdb
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Model.dll
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Repository.dll
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Repository.pdb
+E:\Core\MyFirstApi.Service\bin\Debug\netcoreapp3.1\MyFirstApi.Model.pdb
+E:\Core\MyFirstApi.Service\obj\Debug\netcoreapp3.1\MyFirstApi.Service.csproj.AssemblyReference.cache
+E:\Core\MyFirstApi.Service\obj\Debug\netcoreapp3.1\MyFirstApi.Service.AssemblyInfoInputs.cache
+E:\Core\MyFirstApi.Service\obj\Debug\netcoreapp3.1\MyFirstApi.Service.AssemblyInfo.cs
+E:\Core\MyFirstApi.Service\obj\Debug\netcoreapp3.1\MyFirstApi.Service.csproj.CoreCompileInputs.cache
+E:\Core\MyFirstApi.Service\obj\Debug\netcoreapp3.1\MyFirstApi.Service.csproj.CopyComplete
+E:\Core\MyFirstApi.Service\obj\Debug\netcoreapp3.1\MyFirstApi.Service.dll
+E:\Core\MyFirstApi.Service\obj\Debug\netcoreapp3.1\MyFirstApi.Service.pdb
+E:\Core\MyFirstApi.Service\obj\Debug\netcoreapp3.1\MyFirstApi.Service.genruntimeconfig.cache

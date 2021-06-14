@@ -1,0 +1,12 @@
+E:\Core\MyFirstApi.Model\bin\Debug\netcoreapp3.1\MyFirstApi.Model.deps.json
+E:\Core\MyFirstApi.Model\bin\Debug\netcoreapp3.1\MyFirstApi.Model.runtimeconfig.json
+E:\Core\MyFirstApi.Model\bin\Debug\netcoreapp3.1\MyFirstApi.Model.runtimeconfig.dev.json
+E:\Core\MyFirstApi.Model\bin\Debug\netcoreapp3.1\MyFirstApi.Model.dll
+E:\Core\MyFirstApi.Model\bin\Debug\netcoreapp3.1\MyFirstApi.Model.pdb
+E:\Core\MyFirstApi.Model\obj\Debug\netcoreapp3.1\MyFirstApi.Model.csproj.AssemblyReference.cache
+E:\Core\MyFirstApi.Model\obj\Debug\netcoreapp3.1\MyFirstApi.Model.AssemblyInfoInputs.cache
+E:\Core\MyFirstApi.Model\obj\Debug\netcoreapp3.1\MyFirstApi.Model.AssemblyInfo.cs
+E:\Core\MyFirstApi.Model\obj\Debug\netcoreapp3.1\MyFirstApi.Model.csproj.CoreCompileInputs.cache
+E:\Core\MyFirstApi.Model\obj\Debug\netcoreapp3.1\MyFirstApi.Model.dll
+E:\Core\MyFirstApi.Model\obj\Debug\netcoreapp3.1\MyFirstApi.Model.pdb
+E:\Core\MyFirstApi.Model\obj\Debug\netcoreapp3.1\MyFirstApi.Model.genruntimeconfig.cache
